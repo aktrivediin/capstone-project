@@ -1,0 +1,9 @@
+# Per the assignment's "code submissions only" rule: plots are produced by the
+# code itself when it runs, and described in text in each Part's README, so
+# the generated image files are not committed to the repository.
+part1_eda/figures/
+part2_ml/roc_curve.png
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
